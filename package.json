@@ -41,5 +41,8 @@
       "type": "MIT",
       "url": "https://github.com/vitalets/x-editable/blob/master/LICENSE-MIT"
     }
-  ]
+  ],
+  "_resolved": "",
+  "_integrity": "",
+  "_from": "x-editable@git+https://github.com/jonnylink/x-editable.git"
 }
